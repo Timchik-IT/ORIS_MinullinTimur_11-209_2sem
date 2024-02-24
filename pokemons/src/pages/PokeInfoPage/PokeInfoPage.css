@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: lighter;
+}
+  
+body {
+    font-family: sans-serif;
+    background-color: #f5f5f5;
+}
+
+.header-info {
+    height: 70%;
+    background-color: #072ac8;
+    color: #fff;
+    padding: 1%;
+    display: flex;
+}
+
+.content-info {
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+    flex-wrap: wrap;
+}
+
+.info-pokeball {
+    position: absolute;
+    width: 5%;
+    opacity: 70%;
+    right: 1%;
+    top: -3.5%;
+}
+
+.header-info img {
+    width: 40px;
+    transform: scaleX(-1);
+}
+

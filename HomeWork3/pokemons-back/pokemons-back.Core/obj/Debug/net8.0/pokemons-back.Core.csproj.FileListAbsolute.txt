@@ -1,0 +1,13 @@
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.csproj.AssemblyReference.cache
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.AssemblyInfoInputs.cache
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.AssemblyInfo.cs
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.csproj.CoreCompileInputs.cache
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.sourcelink.json
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\bin\Debug\net8.0\pokemons-back.Core.deps.json
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\bin\Debug\net8.0\pokemons-back.Core.dll
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\bin\Debug\net8.0\pokemons-back.Core.pdb
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.dll
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\refint\pokemons-back.Core.dll
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\pokemons-back.Core.pdb
+D:\Git\ORIS_MinullinTimur_11-209_2sem\pokemons-back\pokemons-back.Core\obj\Debug\net8.0\ref\pokemons-back.Core.dll

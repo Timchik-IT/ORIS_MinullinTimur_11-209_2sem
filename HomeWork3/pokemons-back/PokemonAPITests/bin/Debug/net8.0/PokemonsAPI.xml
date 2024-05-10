@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PokemonsAPI</name>
+    </assembly>
+    <members>
+        <member name="T:PokemonsAPI.Controllers.PokemonController">
+            <summary>
+            Контроллер
+            </summary>
+        </member>
+        <member name="M:PokemonsAPI.Controllers.PokemonController.#ctor(PokemonsAPI.Services.PokemonApiService.IPokemonApiService)">
+            <summary>
+            
+            </summary>
+            <param name="pokeApiService"></param>
+        </member>
+        <member name="M:PokemonsAPI.Controllers.PokemonController.GetAll(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="limit"></param>
+            <param name="offset"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PokemonsAPI.Controllers.PokemonController.GetByFilter(System.Int32,System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="limit"></param>
+            <param name="offset"></param>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PokemonsAPI.Controllers.PokemonController.GetByIdOrName(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="idOrName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:PokemonsAPI.Models.Ability">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.AbilityInfoDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.AbilityInfoDto.Ability">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.MoveInfoDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.MoveInfoDto.Move">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.PokemonApiRequestDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonApiRequestDto.Results">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Height">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Weight">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Moves">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Abilities">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Sprites">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Types">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto.Stats">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.PokemonResponseDto">
+            <summary>
+            пхпх
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonResponseDto.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonResponseDto.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonResponseDto.Sprites">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.PokemonResponseDto.Types">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.SpriteInfoDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.SpriteInfoDto.Other">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.SpriteOther">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.SpriteOther.Home">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.SpriteOtherHome">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.SpriteOtherHome.Front_Default">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.StatInfoDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.StatInfoDto.Base_Stat">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.StatInfoDto.Stat">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.DTOs.TypeInfoDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.DTOs.TypeInfoDto.Type">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.Move">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.Move.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.Move.Url">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PokemonsAPI.Models.Move.Type">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.Stat">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Models.Type">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PokemonsAPI.Services.PokemonApiService.IPokemonApiService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PokemonsAPI.Services.PokemonApiService.IPokemonApiService.GetByFilterAsync(System.String,System.Int32,System.Int32)">
+            <summary>
+            Filters Pokemons by given filter
+            </summary>
+            <param name="offset"></param>
+            <param name="limit"></param>
+            <param name="filter">Used for filter</param>
+            <returns>List of <see cref="T:PokemonsAPI.Models.DTOs.PokemonResponseDto"/></returns>
+        </member>
+        <member name="M:PokemonsAPI.Services.PokemonApiService.IPokemonApiService.GetByIdOrNameAsync(System.String)">
+             <summary>
+            
+             </summary>
+             <param name="idOrName">Id or Name used for search</param>
+             <returns><see cref="T:PokemonsAPI.Models.DTOs.PokemonDetailedResponseDto"/></returns>
+        </member>
+        <member name="T:PokemonsAPI.Services.PokemonApiService.PokemonApiService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PokemonsAPI.Services.PokemonApiService.PokemonApiService.GetByFilterAsync(System.String,System.Int32,System.Int32)">
+            <inheritdoc />
+        </member>
+        <member name="M:PokemonsAPI.Services.PokemonApiService.PokemonApiService.GetByIdOrNameAsync(System.String)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

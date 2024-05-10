@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemons-back.API", "pokemons-back.API\pokemons-back.API.csproj", "{FA1E285D-F2DD-4822-AE3B-B55C73A4AC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemons-back.Core", "pokemons-back.Core\pokemons-back.Core.csproj", "{12802E7D-A9D2-45DD-9F86-5ECFADCBA555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1E285D-F2DD-4822-AE3B-B55C73A4AC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1E285D-F2DD-4822-AE3B-B55C73A4AC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1E285D-F2DD-4822-AE3B-B55C73A4AC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1E285D-F2DD-4822-AE3B-B55C73A4AC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12802E7D-A9D2-45DD-9F86-5ECFADCBA555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12802E7D-A9D2-45DD-9F86-5ECFADCBA555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12802E7D-A9D2-45DD-9F86-5ECFADCBA555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12802E7D-A9D2-45DD-9F86-5ECFADCBA555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

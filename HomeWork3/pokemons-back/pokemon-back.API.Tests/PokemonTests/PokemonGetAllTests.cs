@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
-using PokemonsAPI.Models.DTOs;
+using pokemon-back.Core.Contracts;
 
-namespace PokemonAPITests.PokemonTests;
+namespace pokemon-back.API.Tests.PokemonTests;
 
 [TestClass]
 public class PokemonGetAllTests

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using PokemonsAPI.Models.DTOs;
+using pokemon-back.Core.Contracts;
 
-namespace PokemonAPITests.PokemonTests;
+namespace pokemon-back.API.Tests.PokemonTests;
 
 [TestClass]
 public class PokemonGetByFilterTests

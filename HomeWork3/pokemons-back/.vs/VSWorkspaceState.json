@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pokemon-back.API.Tests",
+    "\\pokemon-back.API.Tests\\PokemonTests",
+    "\\pokemons-back.Core",
+    "\\pokemons-back.Core\\Contracts"
+  ],
+  "SelectedNode": "\\pokemon-back.API.Tests\\PokemonTests\\PokemonGetByIdOrNameTests.cs",
+  "PreviewInSolutionExplorer": false
+}

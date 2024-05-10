@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\ORIS_MinullinTimur_11-209_2sem\\pokemons-back\\pokemons-back.Core\\pokemons-back.Core.csproj",
+      "projectUniqueName": "D:\\Git\\ORIS_MinullinTimur_11-209_2sem\\HomeWork3\\pokemons-back\\pokemons-back.Core\\pokemons-back.Core.csproj",
       "projectName": "pokemons-back.Core",
-      "projectPath": "D:\\Git\\ORIS_MinullinTimur_11-209_2sem\\pokemons-back\\pokemons-back.Core\\pokemons-back.Core.csproj",
+      "projectPath": "D:\\Git\\ORIS_MinullinTimur_11-209_2sem\\HomeWork3\\pokemons-back\\pokemons-back.Core\\pokemons-back.Core.csproj",
       "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\ORIS_MinullinTimur_11-209_2sem\\pokemons-back\\pokemons-back.Core\\obj\\",
+      "outputPath": "D:\\Git\\ORIS_MinullinTimur_11-209_2sem\\HomeWork3\\pokemons-back\\pokemons-back.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
